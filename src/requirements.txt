@@ -57,6 +57,7 @@ nbformat==5.0.7           # via ipywidgets, nbclient, nbconvert, nbstripout, not
 nbstripout==0.3.3         # via -r /home/kazuki_urushiyama/kedro/kedro-tutorial/src/requirements.in
 nest-asyncio==1.4.0       # via nbclient
 notebook==6.1.4           # via jupyter, jupyterlab, jupyterlab-launcher, widgetsnbextension
+scikit-learn==0.23.1
 packaging==20.4           # via bleach, pytest
 pandocfilters==1.4.2      # via nbconvert
 parso==0.7.1              # via jedi
